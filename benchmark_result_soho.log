@@ -1,0 +1,802 @@
+# dmesg
+[  622.390291] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  623.004881] gf128mul-bench: school       614729000 ns  (614 ns/op)
+[  624.392667] gf128mul-bench: koa          1388116000 ns  (1388 ns/op)
+[  624.622826] gf128mul-bench: lut-4k       230204000 ns  (230 ns/op)
+[  624.704363] gf128mul-bench: lut-64k      81546000 ns  (81 ns/op)
+[  626.229395] gf128mul-bench: hybrid-4k    1525395000 ns  (1525 ns/op)
+[  627.826996] gf128mul-bench: hybrid-64k   1597982000 ns  (1597 ns/op)
+[  637.830344] gf128mul-bench: unloaded
+[  637.836729] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  638.450762] gf128mul-bench: school       614173000 ns  (614 ns/op)
+[  639.838263] gf128mul-bench: koa          1387829000 ns  (1387 ns/op)
+[  640.068430] gf128mul-bench: lut-4k       230212000 ns  (230 ns/op)
+[  640.150342] gf128mul-bench: lut-64k      81922000 ns  (81 ns/op)
+[  641.676184] gf128mul-bench: hybrid-4k    1526205000 ns  (1526 ns/op)
+[  643.274269] gf128mul-bench: hybrid-64k   1598466000 ns  (1598 ns/op)
+[  653.277938] gf128mul-bench: unloaded
+[  653.285105] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  653.900044] gf128mul-bench: school       615078000 ns  (615 ns/op)
+[  655.287171] gf128mul-bench: koa          1387456000 ns  (1387 ns/op)
+[  655.517553] gf128mul-bench: lut-4k       230427000 ns  (230 ns/op)
+[  655.599202] gf128mul-bench: lut-64k      81659000 ns  (81 ns/op)
+[  657.125348] gf128mul-bench: hybrid-4k    1526512000 ns  (1526 ns/op)
+[  658.720931] gf128mul-bench: hybrid-64k   1595963000 ns  (1595 ns/op)
+[  668.724300] gf128mul-bench: unloaded
+[  668.730682] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  669.345757] gf128mul-bench: school       615214000 ns  (615 ns/op)
+[  670.732560] gf128mul-bench: koa          1387131000 ns  (1387 ns/op)
+[  670.961994] gf128mul-bench: lut-4k       229479000 ns  (229 ns/op)
+[  671.044526] gf128mul-bench: lut-64k      82542000 ns  (82 ns/op)
+[  672.569815] gf128mul-bench: hybrid-4k    1525652000 ns  (1525 ns/op)
+[  674.166137] gf128mul-bench: hybrid-64k   1596702000 ns  (1596 ns/op)
+[  684.169701] gf128mul-bench: unloaded
+[  684.176097] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  684.792567] gf128mul-bench: school       616611000 ns  (616 ns/op)
+[  686.179226] gf128mul-bench: koa          1386987000 ns  (1386 ns/op)
+[  686.409627] gf128mul-bench: lut-4k       230448000 ns  (230 ns/op)
+[  686.498292] gf128mul-bench: lut-64k      88677000 ns  (88 ns/op)
+[  688.024425] gf128mul-bench: hybrid-4k    1526497000 ns  (1526 ns/op)
+[  689.618667] gf128mul-bench: hybrid-64k   1594622000 ns  (1594 ns/op)
+[  699.622026] gf128mul-bench: unloaded
+[  699.628421] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  700.243167] gf128mul-bench: school       614885000 ns  (614 ns/op)
+[  701.629892] gf128mul-bench: koa          1387054000 ns  (1387 ns/op)
+[  701.859989] gf128mul-bench: lut-4k       230145000 ns  (230 ns/op)
+[  701.942323] gf128mul-bench: lut-64k      82345000 ns  (82 ns/op)
+[  703.468863] gf128mul-bench: hybrid-4k    1526902000 ns  (1526 ns/op)
+[  705.063053] gf128mul-bench: hybrid-64k   1594571000 ns  (1594 ns/op)
+[  715.066496] gf128mul-bench: unloaded
+[  715.072851] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  715.689726] gf128mul-bench: school       617013000 ns  (617 ns/op)
+[  717.079829] gf128mul-bench: koa          1390435000 ns  (1390 ns/op)
+[  717.309450] gf128mul-bench: lut-4k       229667000 ns  (229 ns/op)
+[  717.391000] gf128mul-bench: lut-64k      81558000 ns  (81 ns/op)
+[  718.915757] gf128mul-bench: hybrid-4k    1525121000 ns  (1525 ns/op)
+[  720.512565] gf128mul-bench: hybrid-64k   1597189000 ns  (1597 ns/op)
+[  730.516172] gf128mul-bench: unloaded
+[  730.522428] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  731.139798] gf128mul-bench: school       617511000 ns  (617 ns/op)
+[  732.529081] gf128mul-bench: koa          1389613000 ns  (1389 ns/op)
+[  732.759992] gf128mul-bench: lut-4k       230959000 ns  (230 ns/op)
+[  732.841981] gf128mul-bench: lut-64k      82002000 ns  (82 ns/op)
+[  734.365934] gf128mul-bench: hybrid-4k    1524315000 ns  (1524 ns/op)
+[  735.959656] gf128mul-bench: hybrid-64k   1594102000 ns  (1594 ns/op)
+[  745.963017] gf128mul-bench: unloaded
+[  745.969413] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  746.584844] gf128mul-bench: school       615569000 ns  (615 ns/op)
+[  747.973379] gf128mul-bench: koa          1388864000 ns  (1388 ns/op)
+[  748.202861] gf128mul-bench: lut-4k       229528000 ns  (229 ns/op)
+[  748.284457] gf128mul-bench: lut-64k      81607000 ns  (81 ns/op)
+[  749.808459] gf128mul-bench: hybrid-4k    1524366000 ns  (1524 ns/op)
+[  751.401799] gf128mul-bench: hybrid-64k   1593719000 ns  (1593 ns/op)
+[  761.405210] gf128mul-bench: unloaded
+[  761.411477] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  762.026886] gf128mul-bench: school       615548000 ns  (615 ns/op)
+[  763.416182] gf128mul-bench: koa          1389627000 ns  (1389 ns/op)
+[  763.645545] gf128mul-bench: lut-4k       229409000 ns  (229 ns/op)
+[  763.727032] gf128mul-bench: lut-64k      81499000 ns  (81 ns/op)
+[  765.251598] gf128mul-bench: hybrid-4k    1524930000 ns  (1524 ns/op)
+[  766.847311] gf128mul-bench: hybrid-64k   1596092000 ns  (1596 ns/op)
+[  776.851114] gf128mul-bench: unloaded
+[  776.857480] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  777.473167] gf128mul-bench: school       615826000 ns  (615 ns/op)
+[  778.859909] gf128mul-bench: koa          1387072000 ns  (1387 ns/op)
+[  779.091176] gf128mul-bench: lut-4k       231314000 ns  (231 ns/op)
+[  779.172677] gf128mul-bench: lut-64k      81512000 ns  (81 ns/op)
+[  780.695611] gf128mul-bench: hybrid-4k    1523297000 ns  (1523 ns/op)
+[  782.291247] gf128mul-bench: hybrid-64k   1596015000 ns  (1596 ns/op)
+[  792.295161] gf128mul-bench: unloaded
+[  792.301356] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  792.917585] gf128mul-bench: school       616371000 ns  (616 ns/op)
+[  794.305846] gf128mul-bench: koa          1388591000 ns  (1388 ns/op)
+[  794.535153] gf128mul-bench: lut-4k       229353000 ns  (229 ns/op)
+[  794.617368] gf128mul-bench: lut-64k      82226000 ns  (82 ns/op)
+[  796.142080] gf128mul-bench: hybrid-4k    1525075000 ns  (1525 ns/op)
+[  797.738198] gf128mul-bench: hybrid-64k   1596498000 ns  (1596 ns/op)
+[  807.741714] gf128mul-bench: unloaded
+[  807.747855] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  808.362916] gf128mul-bench: school       615201000 ns  (615 ns/op)
+[  809.749281] gf128mul-bench: koa          1386693000 ns  (1386 ns/op)
+[  809.978598] gf128mul-bench: lut-4k       229363000 ns  (229 ns/op)
+[  810.060548] gf128mul-bench: lut-64k      81961000 ns  (81 ns/op)
+[  811.587291] gf128mul-bench: hybrid-4k    1527108000 ns  (1527 ns/op)
+[  813.182498] gf128mul-bench: hybrid-64k   1595588000 ns  (1595 ns/op)
+[  823.185860] gf128mul-bench: unloaded
+[  823.192021] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  823.807396] gf128mul-bench: school       615515000 ns  (615 ns/op)
+[  825.194512] gf128mul-bench: koa          1387445000 ns  (1387 ns/op)
+[  825.423910] gf128mul-bench: lut-4k       229444000 ns  (229 ns/op)
+[  825.505430] gf128mul-bench: lut-64k      81531000 ns  (81 ns/op)
+[  827.031633] gf128mul-bench: hybrid-4k    1526565000 ns  (1526 ns/op)
+[  828.626026] gf128mul-bench: hybrid-64k   1594773000 ns  (1594 ns/op)
+[  838.629405] gf128mul-bench: unloaded
+[  838.635637] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  839.249744] gf128mul-bench: school       614247000 ns  (614 ns/op)
+[  840.637311] gf128mul-bench: koa          1387896000 ns  (1387 ns/op)
+[  840.866837] gf128mul-bench: lut-4k       229559000 ns  (229 ns/op)
+[  840.948763] gf128mul-bench: lut-64k      81937000 ns  (81 ns/op)
+[  842.473363] gf128mul-bench: hybrid-4k    1524962000 ns  (1524 ns/op)
+[  844.072242] gf128mul-bench: hybrid-64k   1599261000 ns  (1599 ns/op)
+[  854.075768] gf128mul-bench: unloaded
+[  854.081999] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  854.695958] gf128mul-bench: school       614098000 ns  (614 ns/op)
+[  856.083905] gf128mul-bench: koa          1388278000 ns  (1388 ns/op)
+[  856.313905] gf128mul-bench: lut-4k       230045000 ns  (230 ns/op)
+[  856.396310] gf128mul-bench: lut-64k      82416000 ns  (82 ns/op)
+[  857.921403] gf128mul-bench: hybrid-4k    1525456000 ns  (1525 ns/op)
+[  859.516424] gf128mul-bench: hybrid-64k   1595401000 ns  (1595 ns/op)
+[  869.519884] gf128mul-bench: unloaded
+[  869.526084] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  870.140515] gf128mul-bench: school       614571000 ns  (614 ns/op)
+[  871.528418] gf128mul-bench: koa          1388232000 ns  (1388 ns/op)
+[  871.757923] gf128mul-bench: lut-4k       229551000 ns  (229 ns/op)
+[  871.840166] gf128mul-bench: lut-64k      82252000 ns  (82 ns/op)
+[  873.365638] gf128mul-bench: hybrid-4k    1525835000 ns  (1525 ns/op)
+[  874.960670] gf128mul-bench: hybrid-64k   1595412000 ns  (1595 ns/op)
+[  884.964170] gf128mul-bench: unloaded
+[  884.970842] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  885.586635] gf128mul-bench: school       615933000 ns  (615 ns/op)
+[  886.976373] gf128mul-bench: koa          1390066000 ns  (1390 ns/op)
+[  887.206125] gf128mul-bench: lut-4k       229799000 ns  (229 ns/op)
+[  887.287682] gf128mul-bench: lut-64k      81568000 ns  (81 ns/op)
+[  888.811949] gf128mul-bench: hybrid-4k    1524630000 ns  (1524 ns/op)
+[  890.408491] gf128mul-bench: hybrid-64k   1596922000 ns  (1596 ns/op)
+[  900.411955] gf128mul-bench: unloaded
+[  900.418296] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  901.034052] gf128mul-bench: school       615895000 ns  (615 ns/op)
+[  902.423382] gf128mul-bench: koa          1389658000 ns  (1389 ns/op)
+[  902.652813] gf128mul-bench: lut-4k       229476000 ns  (229 ns/op)
+[  902.734629] gf128mul-bench: lut-64k      81827000 ns  (81 ns/op)
+[  904.258633] gf128mul-bench: hybrid-4k    1524367000 ns  (1524 ns/op)
+[  905.853544] gf128mul-bench: hybrid-64k   1595292000 ns  (1595 ns/op)
+[  915.856872] gf128mul-bench: unloaded
+[  915.863093] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  916.478817] gf128mul-bench: school       615865000 ns  (615 ns/op)
+[  917.868308] gf128mul-bench: koa          1389819000 ns  (1389 ns/op)
+[  918.097654] gf128mul-bench: lut-4k       229392000 ns  (229 ns/op)
+[  918.179264] gf128mul-bench: lut-64k      81620000 ns  (81 ns/op)
+[  919.703833] gf128mul-bench: hybrid-4k    1524932000 ns  (1524 ns/op)
+[  921.298481] gf128mul-bench: hybrid-64k   1595028000 ns  (1595 ns/op)
+[  931.301952] gf128mul-bench: unloaded
+[  931.308264] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  931.923696] gf128mul-bench: school       615573000 ns  (615 ns/op)
+[  933.312843] gf128mul-bench: koa          1389476000 ns  (1389 ns/op)
+[  933.542224] gf128mul-bench: lut-4k       229426000 ns  (229 ns/op)
+[  933.623718] gf128mul-bench: lut-64k      81504000 ns  (81 ns/op)
+[  935.147247] gf128mul-bench: hybrid-4k    1523891000 ns  (1523 ns/op)
+[  936.743167] gf128mul-bench: hybrid-64k   1596300000 ns  (1596 ns/op)
+[  946.746860] gf128mul-bench: unloaded
+[  946.753022] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  947.367526] gf128mul-bench: school       614642000 ns  (614 ns/op)
+[  948.756139] gf128mul-bench: koa          1388943000 ns  (1388 ns/op)
+[  948.986943] gf128mul-bench: lut-4k       230851000 ns  (230 ns/op)
+[  949.068550] gf128mul-bench: lut-64k      81616000 ns  (81 ns/op)
+[  950.593645] gf128mul-bench: hybrid-4k    1525458000 ns  (1525 ns/op)
+[  952.190186] gf128mul-bench: hybrid-64k   1596923000 ns  (1596 ns/op)
+[  962.194468] gf128mul-bench: unloaded
+[  962.200836] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  962.813640] gf128mul-bench: school       612945000 ns  (612 ns/op)
+[  964.200043] gf128mul-bench: koa          1386731000 ns  (1386 ns/op)
+[  964.429372] gf128mul-bench: lut-4k       229375000 ns  (229 ns/op)
+[  964.512014] gf128mul-bench: lut-64k      82653000 ns  (82 ns/op)
+[  966.035410] gf128mul-bench: hybrid-4k    1523760000 ns  (1523 ns/op)
+[  967.631380] gf128mul-bench: hybrid-64k   1596350000 ns  (1596 ns/op)
+[  977.634887] gf128mul-bench: unloaded
+[  977.641306] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  978.256679] gf128mul-bench: school       615513000 ns  (615 ns/op)
+[  979.642813] gf128mul-bench: koa          1386462000 ns  (1386 ns/op)
+[  979.872268] gf128mul-bench: lut-4k       229501000 ns  (229 ns/op)
+[  979.953820] gf128mul-bench: lut-64k      81562000 ns  (81 ns/op)
+[  981.478586] gf128mul-bench: hybrid-4k    1525129000 ns  (1525 ns/op)
+[  983.074065] gf128mul-bench: hybrid-64k   1595859000 ns  (1595 ns/op)
+[  993.077735] gf128mul-bench: unloaded
+[  993.083960] gf128mul-bench: Starting benchmark with 1000000 iterations
+[  993.697649] gf128mul-bench: school       613828000 ns  (613 ns/op)
+[  995.085008] gf128mul-bench: koa          1387686000 ns  (1387 ns/op)
+[  995.314887] gf128mul-bench: lut-4k       229924000 ns  (229 ns/op)
+[  995.396398] gf128mul-bench: lut-64k      81521000 ns  (81 ns/op)
+[  996.922847] gf128mul-bench: hybrid-4k    1526812000 ns  (1526 ns/op)
+[  998.517335] gf128mul-bench: hybrid-64k   1594868000 ns  (1594 ns/op)
+[ 1008.520813] gf128mul-bench: unloaded
+[ 1008.527118] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1009.141616] gf128mul-bench: school       614637000 ns  (614 ns/op)
+[ 1010.528307] gf128mul-bench: koa          1387021000 ns  (1387 ns/op)
+[ 1010.758094] gf128mul-bench: lut-4k       229834000 ns  (229 ns/op)
+[ 1010.839629] gf128mul-bench: lut-64k      81547000 ns  (81 ns/op)
+[ 1012.364976] gf128mul-bench: hybrid-4k    1525712000 ns  (1525 ns/op)
+[ 1013.960389] gf128mul-bench: hybrid-64k   1595792000 ns  (1595 ns/op)
+[ 1023.963921] gf128mul-bench: unloaded
+[ 1023.970518] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1024.585014] gf128mul-bench: school       614635000 ns  (614 ns/op)
+[ 1025.972762] gf128mul-bench: koa          1388076000 ns  (1388 ns/op)
+[ 1026.202852] gf128mul-bench: lut-4k       230135000 ns  (230 ns/op)
+[ 1026.285341] gf128mul-bench: lut-64k      82499000 ns  (82 ns/op)
+[ 1027.811349] gf128mul-bench: hybrid-4k    1526371000 ns  (1526 ns/op)
+[ 1029.406409] gf128mul-bench: hybrid-64k   1595439000 ns  (1595 ns/op)
+[ 1039.409968] gf128mul-bench: unloaded
+[ 1039.416185] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1040.029988] gf128mul-bench: school       613942000 ns  (613 ns/op)
+[ 1041.416771] gf128mul-bench: koa          1387111000 ns  (1387 ns/op)
+[ 1041.646480] gf128mul-bench: lut-4k       229755000 ns  (229 ns/op)
+[ 1041.728228] gf128mul-bench: lut-64k      81759000 ns  (81 ns/op)
+[ 1043.253473] gf128mul-bench: hybrid-4k    1525608000 ns  (1525 ns/op)
+[ 1044.847262] gf128mul-bench: hybrid-64k   1594168000 ns  (1594 ns/op)
+[ 1054.850735] gf128mul-bench: unloaded
+[ 1054.856995] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1055.473147] gf128mul-bench: school       616292000 ns  (616 ns/op)
+[ 1056.861157] gf128mul-bench: koa          1388340000 ns  (1388 ns/op)
+[ 1057.091146] gf128mul-bench: lut-4k       230035000 ns  (230 ns/op)
+[ 1057.172853] gf128mul-bench: lut-64k      81718000 ns  (81 ns/op)
+[ 1058.697280] gf128mul-bench: hybrid-4k    1524789000 ns  (1524 ns/op)
+[ 1060.293849] gf128mul-bench: hybrid-64k   1596950000 ns  (1596 ns/op)
+[ 1070.297451] gf128mul-bench: unloaded
+[ 1070.303551] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1070.921511] gf128mul-bench: school       618102000 ns  (618 ns/op)
+[ 1072.309270] gf128mul-bench: koa          1388089000 ns  (1388 ns/op)
+[ 1072.538632] gf128mul-bench: lut-4k       229407000 ns  (229 ns/op)
+[ 1072.620478] gf128mul-bench: lut-64k      81857000 ns  (81 ns/op)
+[ 1074.146385] gf128mul-bench: hybrid-4k    1526271000 ns  (1526 ns/op)
+[ 1075.740712] gf128mul-bench: hybrid-64k   1594706000 ns  (1594 ns/op)
+[ 1085.744111] gf128mul-bench: unloaded
+[ 1085.750458] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1086.365486] gf128mul-bench: school       615166000 ns  (615 ns/op)
+[ 1087.756574] gf128mul-bench: koa          1391416000 ns  (1391 ns/op)
+[ 1087.985996] gf128mul-bench: lut-4k       229467000 ns  (229 ns/op)
+[ 1088.067537] gf128mul-bench: lut-64k      81552000 ns  (81 ns/op)
+[ 1089.592149] gf128mul-bench: hybrid-4k    1524974000 ns  (1524 ns/op)
+[ 1091.186968] gf128mul-bench: hybrid-64k   1595198000 ns  (1595 ns/op)
+[ 1101.190394] gf128mul-bench: unloaded
+[ 1101.196644] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1101.811166] gf128mul-bench: school       614661000 ns  (614 ns/op)
+[ 1103.199072] gf128mul-bench: koa          1388233000 ns  (1388 ns/op)
+[ 1103.428427] gf128mul-bench: lut-4k       229401000 ns  (229 ns/op)
+[ 1103.510045] gf128mul-bench: lut-64k      81628000 ns  (81 ns/op)
+[ 1105.034460] gf128mul-bench: hybrid-4k    1524780000 ns  (1524 ns/op)
+[ 1106.629320] gf128mul-bench: hybrid-64k   1595239000 ns  (1595 ns/op)
+[ 1116.633347] gf128mul-bench: unloaded
+[ 1116.640100] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1117.253824] gf128mul-bench: school       613863000 ns  (613 ns/op)
+[ 1118.640626] gf128mul-bench: koa          1387132000 ns  (1387 ns/op)
+[ 1118.872048] gf128mul-bench: lut-4k       231470000 ns  (231 ns/op)
+[ 1118.953563] gf128mul-bench: lut-64k      81527000 ns  (81 ns/op)
+[ 1120.476117] gf128mul-bench: hybrid-4k    1522916000 ns  (1522 ns/op)
+[ 1122.070718] gf128mul-bench: hybrid-64k   1594983000 ns  (1594 ns/op)
+[ 1132.074102] gf128mul-bench: unloaded
+[ 1132.080519] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1132.695104] gf128mul-bench: school       614724000 ns  (614 ns/op)
+[ 1134.083458] gf128mul-bench: koa          1388682000 ns  (1388 ns/op)
+[ 1134.313119] gf128mul-bench: lut-4k       229708000 ns  (229 ns/op)
+[ 1134.394594] gf128mul-bench: lut-64k      81486000 ns  (81 ns/op)
+[ 1135.918899] gf128mul-bench: hybrid-4k    1524668000 ns  (1524 ns/op)
+[ 1137.514860] gf128mul-bench: hybrid-64k   1596341000 ns  (1596 ns/op)
+[ 1147.518316] gf128mul-bench: unloaded
+[ 1147.524714] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1148.140902] gf128mul-bench: school       616328000 ns  (616 ns/op)
+[ 1149.527563] gf128mul-bench: koa          1386990000 ns  (1386 ns/op)
+[ 1149.757165] gf128mul-bench: lut-4k       229647000 ns  (229 ns/op)
+[ 1149.838659] gf128mul-bench: lut-64k      81505000 ns  (81 ns/op)
+[ 1151.364372] gf128mul-bench: hybrid-4k    1526076000 ns  (1526 ns/op)
+[ 1152.961080] gf128mul-bench: hybrid-64k   1597090000 ns  (1597 ns/op)
+[ 1162.964735] gf128mul-bench: unloaded
+[ 1162.971107] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1163.585546] gf128mul-bench: school       614577000 ns  (614 ns/op)
+[ 1164.972560] gf128mul-bench: koa          1387345000 ns  (1387 ns/op)
+[ 1165.202250] gf128mul-bench: lut-4k       229736000 ns  (229 ns/op)
+[ 1165.283807] gf128mul-bench: lut-64k      81568000 ns  (81 ns/op)
+[ 1166.808642] gf128mul-bench: hybrid-4k    1525197000 ns  (1525 ns/op)
+[ 1168.404132] gf128mul-bench: hybrid-64k   1595870000 ns  (1595 ns/op)
+[ 1178.407554] gf128mul-bench: unloaded
+[ 1178.413952] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1179.029326] gf128mul-bench: school       615515000 ns  (615 ns/op)
+[ 1180.415118] gf128mul-bench: koa          1386121000 ns  (1386 ns/op)
+[ 1180.644832] gf128mul-bench: lut-4k       229761000 ns  (229 ns/op)
+[ 1180.726484] gf128mul-bench: lut-64k      81662000 ns  (81 ns/op)
+[ 1182.250666] gf128mul-bench: hybrid-4k    1524546000 ns  (1524 ns/op)
+[ 1183.847631] gf128mul-bench: hybrid-64k   1597346000 ns  (1597 ns/op)
+[ 1193.851090] gf128mul-bench: unloaded
+[ 1193.857248] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1194.473126] gf128mul-bench: school       616018000 ns  (616 ns/op)
+[ 1195.859764] gf128mul-bench: koa          1386966000 ns  (1386 ns/op)
+[ 1196.089075] gf128mul-bench: lut-4k       229358000 ns  (229 ns/op)
+[ 1196.171507] gf128mul-bench: lut-64k      82444000 ns  (82 ns/op)
+[ 1197.697796] gf128mul-bench: hybrid-4k    1526651000 ns  (1526 ns/op)
+[ 1199.292638] gf128mul-bench: hybrid-64k   1595222000 ns  (1595 ns/op)
+[ 1209.295934] gf128mul-bench: unloaded
+[ 1209.302367] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1209.917055] gf128mul-bench: school       614827000 ns  (614 ns/op)
+[ 1211.303280] gf128mul-bench: koa          1386555000 ns  (1386 ns/op)
+[ 1211.532629] gf128mul-bench: lut-4k       229394000 ns  (229 ns/op)
+[ 1211.620525] gf128mul-bench: lut-64k      87908000 ns  (87 ns/op)
+[ 1213.147701] gf128mul-bench: hybrid-4k    1527539000 ns  (1527 ns/op)
+[ 1214.742512] gf128mul-bench: hybrid-64k   1595190000 ns  (1595 ns/op)
+[ 1224.745999] gf128mul-bench: unloaded
+[ 1224.752336] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1225.369964] gf128mul-bench: school       617768000 ns  (617 ns/op)
+[ 1226.759397] gf128mul-bench: koa          1389761000 ns  (1389 ns/op)
+[ 1226.988891] gf128mul-bench: lut-4k       229539000 ns  (229 ns/op)
+[ 1227.071191] gf128mul-bench: lut-64k      82310000 ns  (82 ns/op)
+[ 1228.595673] gf128mul-bench: hybrid-4k    1524844000 ns  (1524 ns/op)
+[ 1230.190101] gf128mul-bench: hybrid-64k   1594810000 ns  (1594 ns/op)
+[ 1240.193845] gf128mul-bench: unloaded
+[ 1240.200067] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1240.813561] gf128mul-bench: school       613635000 ns  (613 ns/op)
+[ 1242.201847] gf128mul-bench: koa          1388616000 ns  (1388 ns/op)
+[ 1242.432830] gf128mul-bench: lut-4k       231032000 ns  (231 ns/op)
+[ 1242.514766] gf128mul-bench: lut-64k      81948000 ns  (81 ns/op)
+[ 1244.041399] gf128mul-bench: hybrid-4k    1526996000 ns  (1526 ns/op)
+[ 1245.635958] gf128mul-bench: hybrid-64k   1594939000 ns  (1594 ns/op)
+[ 1255.639458] gf128mul-bench: unloaded
+[ 1255.645705] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1256.260547] gf128mul-bench: school       614981000 ns  (614 ns/op)
+[ 1257.649934] gf128mul-bench: koa          1389716000 ns  (1389 ns/op)
+[ 1257.879289] gf128mul-bench: lut-4k       229400000 ns  (229 ns/op)
+[ 1257.960818] gf128mul-bench: lut-64k      81539000 ns  (81 ns/op)
+[ 1259.485991] gf128mul-bench: hybrid-4k    1525536000 ns  (1525 ns/op)
+[ 1261.080230] gf128mul-bench: hybrid-64k   1594618000 ns  (1594 ns/op)
+[ 1271.083631] gf128mul-bench: unloaded
+[ 1271.089998] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1271.705310] gf128mul-bench: school       615452000 ns  (615 ns/op)
+[ 1273.094161] gf128mul-bench: koa          1389180000 ns  (1389 ns/op)
+[ 1273.325065] gf128mul-bench: lut-4k       230950000 ns  (230 ns/op)
+[ 1273.406826] gf128mul-bench: lut-64k      81772000 ns  (81 ns/op)
+[ 1274.930543] gf128mul-bench: hybrid-4k    1524080000 ns  (1524 ns/op)
+[ 1276.525411] gf128mul-bench: hybrid-64k   1595247000 ns  (1595 ns/op)
+[ 1286.536842] gf128mul-bench: unloaded
+[ 1286.543218] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1287.159839] gf128mul-bench: school       616760000 ns  (616 ns/op)
+[ 1288.546923] gf128mul-bench: koa          1387415000 ns  (1387 ns/op)
+[ 1288.778752] gf128mul-bench: lut-4k       231877000 ns  (231 ns/op)
+[ 1288.860419] gf128mul-bench: lut-64k      81678000 ns  (81 ns/op)
+[ 1290.382993] gf128mul-bench: hybrid-4k    1522936000 ns  (1522 ns/op)
+[ 1291.977463] gf128mul-bench: hybrid-64k   1594850000 ns  (1594 ns/op)
+[ 1301.982753] gf128mul-bench: unloaded
+[ 1301.989110] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1302.604533] gf128mul-bench: school       615563000 ns  (615 ns/op)
+[ 1303.992946] gf128mul-bench: koa          1388744000 ns  (1388 ns/op)
+[ 1304.222384] gf128mul-bench: lut-4k       229483000 ns  (229 ns/op)
+[ 1304.303910] gf128mul-bench: lut-64k      81537000 ns  (81 ns/op)
+[ 1305.829770] gf128mul-bench: hybrid-4k    1526224000 ns  (1526 ns/op)
+[ 1307.426313] gf128mul-bench: hybrid-64k   1596923000 ns  (1596 ns/op)
+[ 1317.429685] gf128mul-bench: unloaded
+[ 1317.436077] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1318.051650] gf128mul-bench: school       615713000 ns  (615 ns/op)
+[ 1319.438892] gf128mul-bench: koa          1387570000 ns  (1387 ns/op)
+[ 1319.668218] gf128mul-bench: lut-4k       229373000 ns  (229 ns/op)
+[ 1319.749689] gf128mul-bench: lut-64k      81482000 ns  (81 ns/op)
+[ 1321.275070] gf128mul-bench: hybrid-4k    1525745000 ns  (1525 ns/op)
+[ 1322.870653] gf128mul-bench: hybrid-64k   1595963000 ns  (1595 ns/op)
+[ 1332.874037] gf128mul-bench: unloaded
+[ 1332.880475] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1333.497432] gf128mul-bench: school       617095000 ns  (617 ns/op)
+[ 1334.884002] gf128mul-bench: koa          1386898000 ns  (1386 ns/op)
+[ 1335.113306] gf128mul-bench: lut-4k       229351000 ns  (229 ns/op)
+[ 1335.195027] gf128mul-bench: lut-64k      81733000 ns  (81 ns/op)
+[ 1336.721113] gf128mul-bench: hybrid-4k    1526452000 ns  (1526 ns/op)
+[ 1338.315960] gf128mul-bench: hybrid-64k   1595228000 ns  (1595 ns/op)
+[ 1348.319278] gf128mul-bench: unloaded
+[ 1348.325345] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1348.940814] gf128mul-bench: school       615610000 ns  (615 ns/op)
+[ 1350.328161] gf128mul-bench: koa          1387675000 ns  (1387 ns/op)
+[ 1350.557634] gf128mul-bench: lut-4k       229519000 ns  (229 ns/op)
+[ 1350.639202] gf128mul-bench: lut-64k      81580000 ns  (81 ns/op)
+[ 1352.164488] gf128mul-bench: hybrid-4k    1525649000 ns  (1525 ns/op)
+[ 1353.758954] gf128mul-bench: hybrid-64k   1594845000 ns  (1594 ns/op)
+[ 1363.762283] gf128mul-bench: unloaded
+[ 1363.768710] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1364.383203] gf128mul-bench: school       614632000 ns  (614 ns/op)
+[ 1365.769171] gf128mul-bench: koa          1386297000 ns  (1386 ns/op)
+[ 1365.998580] gf128mul-bench: lut-4k       229455000 ns  (229 ns/op)
+[ 1366.080055] gf128mul-bench: lut-64k      81485000 ns  (81 ns/op)
+[ 1367.605738] gf128mul-bench: hybrid-4k    1526047000 ns  (1526 ns/op)
+[ 1369.200434] gf128mul-bench: hybrid-64k   1595076000 ns  (1595 ns/op)
+[ 1379.204129] gf128mul-bench: unloaded
+[ 1379.210331] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1379.823718] gf128mul-bench: school       613526000 ns  (613 ns/op)
+[ 1381.211327] gf128mul-bench: koa          1387937000 ns  (1387 ns/op)
+[ 1381.440649] gf128mul-bench: lut-4k       229368000 ns  (229 ns/op)
+[ 1381.522283] gf128mul-bench: lut-64k      81644000 ns  (81 ns/op)
+[ 1383.048278] gf128mul-bench: hybrid-4k    1526360000 ns  (1526 ns/op)
+[ 1384.643619] gf128mul-bench: hybrid-64k   1595721000 ns  (1595 ns/op)
+[ 1394.647058] gf128mul-bench: unloaded
+[ 1394.654225] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1395.271020] gf128mul-bench: school       616936000 ns  (616 ns/op)
+[ 1396.659241] gf128mul-bench: koa          1388549000 ns  (1388 ns/op)
+[ 1396.889592] gf128mul-bench: lut-4k       230397000 ns  (230 ns/op)
+[ 1396.971107] gf128mul-bench: lut-64k      81526000 ns  (81 ns/op)
+[ 1398.496389] gf128mul-bench: hybrid-4k    1525646000 ns  (1525 ns/op)
+[ 1400.091004] gf128mul-bench: hybrid-64k   1594996000 ns  (1594 ns/op)
+[ 1410.094792] gf128mul-bench: unloaded
+[ 1410.101038] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1410.717799] gf128mul-bench: school       616901000 ns  (616 ns/op)
+[ 1412.105815] gf128mul-bench: koa          1388345000 ns  (1388 ns/op)
+[ 1412.335974] gf128mul-bench: lut-4k       230206000 ns  (230 ns/op)
+[ 1412.417995] gf128mul-bench: lut-64k      82032000 ns  (82 ns/op)
+[ 1413.941691] gf128mul-bench: hybrid-4k    1524059000 ns  (1524 ns/op)
+[ 1415.536002] gf128mul-bench: hybrid-64k   1594691000 ns  (1594 ns/op)
+[ 1425.539405] gf128mul-bench: unloaded
+[ 1425.545540] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1426.160170] gf128mul-bench: school       614769000 ns  (614 ns/op)
+[ 1427.548425] gf128mul-bench: koa          1388585000 ns  (1388 ns/op)
+[ 1427.778047] gf128mul-bench: lut-4k       229668000 ns  (229 ns/op)
+[ 1427.859544] gf128mul-bench: lut-64k      81509000 ns  (81 ns/op)
+[ 1429.383488] gf128mul-bench: hybrid-4k    1524307000 ns  (1524 ns/op)
+[ 1430.977048] gf128mul-bench: hybrid-64k   1593941000 ns  (1593 ns/op)
+[ 1440.984295] gf128mul-bench: unloaded
+[ 1440.990462] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1441.605879] gf128mul-bench: school       615556000 ns  (615 ns/op)
+[ 1442.994399] gf128mul-bench: koa          1388848000 ns  (1388 ns/op)
+[ 1443.224074] gf128mul-bench: lut-4k       229720000 ns  (229 ns/op)
+[ 1443.306204] gf128mul-bench: lut-64k      82139000 ns  (82 ns/op)
+[ 1444.831545] gf128mul-bench: hybrid-4k    1525703000 ns  (1525 ns/op)
+[ 1446.426947] gf128mul-bench: hybrid-64k   1595782000 ns  (1595 ns/op)
+[ 1456.430699] gf128mul-bench: unloaded
+[ 1456.437320] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1457.054059] gf128mul-bench: school       616879000 ns  (616 ns/op)
+[ 1458.440205] gf128mul-bench: koa          1386476000 ns  (1386 ns/op)
+[ 1458.671896] gf128mul-bench: lut-4k       231738000 ns  (231 ns/op)
+[ 1458.753955] gf128mul-bench: lut-64k      82069000 ns  (82 ns/op)
+[ 1460.278876] gf128mul-bench: hybrid-4k    1525284000 ns  (1525 ns/op)
+[ 1461.873112] gf128mul-bench: hybrid-64k   1594616000 ns  (1594 ns/op)
+[ 1471.876627] gf128mul-bench: unloaded
+[ 1471.882781] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1472.497330] gf128mul-bench: school       614689000 ns  (614 ns/op)
+[ 1473.884444] gf128mul-bench: koa          1387444000 ns  (1387 ns/op)
+[ 1474.113744] gf128mul-bench: lut-4k       229346000 ns  (229 ns/op)
+[ 1474.196109] gf128mul-bench: lut-64k      82374000 ns  (82 ns/op)
+[ 1475.721957] gf128mul-bench: hybrid-4k    1526211000 ns  (1526 ns/op)
+[ 1477.317975] gf128mul-bench: hybrid-64k   1596398000 ns  (1596 ns/op)
+[ 1487.321883] gf128mul-bench: unloaded
+[ 1487.328397] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1487.944486] gf128mul-bench: school       616228000 ns  (616 ns/op)
+[ 1489.331972] gf128mul-bench: koa          1387814000 ns  (1387 ns/op)
+[ 1489.561359] gf128mul-bench: lut-4k       229433000 ns  (229 ns/op)
+[ 1489.643888] gf128mul-bench: lut-64k      82539000 ns  (82 ns/op)
+[ 1491.169053] gf128mul-bench: hybrid-4k    1525527000 ns  (1525 ns/op)
+[ 1492.764774] gf128mul-bench: hybrid-64k   1596102000 ns  (1596 ns/op)
+[ 1502.768144] gf128mul-bench: unloaded
+[ 1502.774442] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1503.390975] gf128mul-bench: school       616672000 ns  (616 ns/op)
+[ 1504.778651] gf128mul-bench: koa          1388004000 ns  (1388 ns/op)
+[ 1505.007976] gf128mul-bench: lut-4k       229371000 ns  (229 ns/op)
+[ 1505.090310] gf128mul-bench: lut-64k      82344000 ns  (82 ns/op)
+[ 1506.617151] gf128mul-bench: hybrid-4k    1527204000 ns  (1527 ns/op)
+[ 1508.212896] gf128mul-bench: hybrid-64k   1596123000 ns  (1596 ns/op)
+[ 1518.216552] gf128mul-bench: unloaded
+[ 1518.222957] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1518.838281] gf128mul-bench: school       615464000 ns  (615 ns/op)
+[ 1520.224760] gf128mul-bench: koa          1386808000 ns  (1386 ns/op)
+[ 1520.454181] gf128mul-bench: lut-4k       229468000 ns  (229 ns/op)
+[ 1520.535706] gf128mul-bench: lut-64k      81537000 ns  (81 ns/op)
+[ 1522.060920] gf128mul-bench: hybrid-4k    1525578000 ns  (1525 ns/op)
+[ 1523.654886] gf128mul-bench: hybrid-64k   1594347000 ns  (1594 ns/op)
+[ 1533.658594] gf128mul-bench: unloaded
+[ 1533.664818] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1534.280371] gf128mul-bench: school       615692000 ns  (615 ns/op)
+[ 1535.665586] gf128mul-bench: koa          1385543000 ns  (1385 ns/op)
+[ 1535.894900] gf128mul-bench: lut-4k       229362000 ns  (229 ns/op)
+[ 1535.982098] gf128mul-bench: lut-64k      87211000 ns  (87 ns/op)
+[ 1537.506563] gf128mul-bench: hybrid-4k    1524828000 ns  (1524 ns/op)
+[ 1539.100961] gf128mul-bench: hybrid-64k   1594777000 ns  (1594 ns/op)
+[ 1549.104464] gf128mul-bench: unloaded
+[ 1549.110588] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1549.725628] gf128mul-bench: school       615180000 ns  (615 ns/op)
+[ 1551.113039] gf128mul-bench: koa          1387740000 ns  (1387 ns/op)
+[ 1551.342489] gf128mul-bench: lut-4k       229496000 ns  (229 ns/op)
+[ 1551.423994] gf128mul-bench: lut-64k      81517000 ns  (81 ns/op)
+[ 1552.949197] gf128mul-bench: hybrid-4k    1525566000 ns  (1525 ns/op)
+[ 1554.544858] gf128mul-bench: hybrid-64k   1596041000 ns  (1596 ns/op)
+[ 1564.548312] gf128mul-bench: unloaded
+[ 1564.555438] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1565.169913] gf128mul-bench: school       614613000 ns  (614 ns/op)
+[ 1566.559112] gf128mul-bench: koa          1389528000 ns  (1389 ns/op)
+[ 1566.789744] gf128mul-bench: lut-4k       230677000 ns  (230 ns/op)
+[ 1566.871561] gf128mul-bench: lut-64k      81830000 ns  (81 ns/op)
+[ 1568.395500] gf128mul-bench: hybrid-4k    1524302000 ns  (1524 ns/op)
+[ 1569.991516] gf128mul-bench: hybrid-64k   1596396000 ns  (1596 ns/op)
+[ 1579.995177] gf128mul-bench: unloaded
+[ 1580.001472] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1580.618278] gf128mul-bench: school       616947000 ns  (616 ns/op)
+[ 1582.006073] gf128mul-bench: koa          1388124000 ns  (1388 ns/op)
+[ 1582.236056] gf128mul-bench: lut-4k       230030000 ns  (230 ns/op)
+[ 1582.317536] gf128mul-bench: lut-64k      81491000 ns  (81 ns/op)
+[ 1583.841934] gf128mul-bench: hybrid-4k    1524762000 ns  (1524 ns/op)
+[ 1585.436252] gf128mul-bench: hybrid-64k   1594698000 ns  (1594 ns/op)
+[ 1595.439552] gf128mul-bench: unloaded
+[ 1595.445965] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1596.060172] gf128mul-bench: school       614344000 ns  (614 ns/op)
+[ 1597.448990] gf128mul-bench: koa          1389147000 ns  (1389 ns/op)
+[ 1597.678568] gf128mul-bench: lut-4k       229623000 ns  (229 ns/op)
+[ 1597.760508] gf128mul-bench: lut-64k      81950000 ns  (81 ns/op)
+[ 1599.285286] gf128mul-bench: hybrid-4k    1525142000 ns  (1525 ns/op)
+[ 1600.878246] gf128mul-bench: hybrid-64k   1593338000 ns  (1593 ns/op)
+[ 1610.882247] gf128mul-bench: unloaded
+[ 1610.890426] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1611.505051] gf128mul-bench: school       614765000 ns  (614 ns/op)
+[ 1612.894484] gf128mul-bench: koa          1389763000 ns  (1389 ns/op)
+[ 1613.125667] gf128mul-bench: lut-4k       231229000 ns  (231 ns/op)
+[ 1613.208014] gf128mul-bench: lut-64k      82356000 ns  (82 ns/op)
+[ 1614.732609] gf128mul-bench: hybrid-4k    1524957000 ns  (1524 ns/op)
+[ 1616.327775] gf128mul-bench: hybrid-64k   1595546000 ns  (1595 ns/op)
+[ 1626.331305] gf128mul-bench: unloaded
+[ 1626.337903] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1626.955480] gf128mul-bench: school       617717000 ns  (617 ns/op)
+[ 1628.344072] gf128mul-bench: koa          1388922000 ns  (1388 ns/op)
+[ 1628.575906] gf128mul-bench: lut-4k       231881000 ns  (231 ns/op)
+[ 1628.657400] gf128mul-bench: lut-64k      81505000 ns  (81 ns/op)
+[ 1630.181585] gf128mul-bench: hybrid-4k    1524549000 ns  (1524 ns/op)
+[ 1631.775562] gf128mul-bench: hybrid-64k   1594355000 ns  (1594 ns/op)
+[ 1641.779371] gf128mul-bench: unloaded
+[ 1641.786176] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1642.401022] gf128mul-bench: school       614986000 ns  (614 ns/op)
+[ 1643.787369] gf128mul-bench: koa          1386676000 ns  (1386 ns/op)
+[ 1644.016651] gf128mul-bench: lut-4k       229328000 ns  (229 ns/op)
+[ 1644.098475] gf128mul-bench: lut-64k      81836000 ns  (81 ns/op)
+[ 1645.622441] gf128mul-bench: hybrid-4k    1524329000 ns  (1524 ns/op)
+[ 1647.218406] gf128mul-bench: hybrid-64k   1596346000 ns  (1596 ns/op)
+[ 1657.221811] gf128mul-bench: unloaded
+[ 1657.228002] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1657.841887] gf128mul-bench: school       614026000 ns  (614 ns/op)
+[ 1659.229081] gf128mul-bench: koa          1387522000 ns  (1387 ns/op)
+[ 1659.458419] gf128mul-bench: lut-4k       229385000 ns  (229 ns/op)
+[ 1659.540240] gf128mul-bench: lut-64k      81832000 ns  (81 ns/op)
+[ 1661.065176] gf128mul-bench: hybrid-4k    1525300000 ns  (1525 ns/op)
+[ 1662.661778] gf128mul-bench: hybrid-64k   1596984000 ns  (1596 ns/op)
+[ 1672.665344] gf128mul-bench: unloaded
+[ 1672.671802] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1673.289690] gf128mul-bench: school       618028000 ns  (618 ns/op)
+[ 1674.676587] gf128mul-bench: koa          1387226000 ns  (1387 ns/op)
+[ 1674.905918] gf128mul-bench: lut-4k       229378000 ns  (229 ns/op)
+[ 1674.987459] gf128mul-bench: lut-64k      81552000 ns  (81 ns/op)
+[ 1676.512721] gf128mul-bench: hybrid-4k    1525624000 ns  (1525 ns/op)
+[ 1678.107569] gf128mul-bench: hybrid-64k   1595229000 ns  (1595 ns/op)
+[ 1688.111249] gf128mul-bench: unloaded
+[ 1688.117409] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1688.731873] gf128mul-bench: school       614603000 ns  (614 ns/op)
+[ 1690.118253] gf128mul-bench: koa          1386709000 ns  (1386 ns/op)
+[ 1690.347674] gf128mul-bench: lut-4k       229467000 ns  (229 ns/op)
+[ 1690.429223] gf128mul-bench: lut-64k      81561000 ns  (81 ns/op)
+[ 1691.954331] gf128mul-bench: hybrid-4k    1525472000 ns  (1525 ns/op)
+[ 1693.550903] gf128mul-bench: hybrid-64k   1596954000 ns  (1596 ns/op)
+[ 1703.554322] gf128mul-bench: unloaded
+[ 1703.560603] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1704.175118] gf128mul-bench: school       614655000 ns  (614 ns/op)
+[ 1705.562268] gf128mul-bench: koa          1387479000 ns  (1387 ns/op)
+[ 1705.791686] gf128mul-bench: lut-4k       229464000 ns  (229 ns/op)
+[ 1705.873218] gf128mul-bench: lut-64k      81543000 ns  (81 ns/op)
+[ 1707.399392] gf128mul-bench: hybrid-4k    1526536000 ns  (1526 ns/op)
+[ 1708.994331] gf128mul-bench: hybrid-64k   1595320000 ns  (1595 ns/op)
+[ 1718.997721] gf128mul-bench: unloaded
+[ 1719.004060] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1719.618511] gf128mul-bench: school       614589000 ns  (614 ns/op)
+[ 1721.004673] gf128mul-bench: koa          1386491000 ns  (1386 ns/op)
+[ 1721.234008] gf128mul-bench: lut-4k       229381000 ns  (229 ns/op)
+[ 1721.315542] gf128mul-bench: lut-64k      81544000 ns  (81 ns/op)
+[ 1722.842289] gf128mul-bench: hybrid-4k    1527110000 ns  (1527 ns/op)
+[ 1724.438073] gf128mul-bench: hybrid-64k   1596164000 ns  (1596 ns/op)
+[ 1734.441409] gf128mul-bench: unloaded
+[ 1734.447644] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1735.064021] gf128mul-bench: school       616517000 ns  (616 ns/op)
+[ 1736.451933] gf128mul-bench: koa          1388240000 ns  (1388 ns/op)
+[ 1736.683572] gf128mul-bench: lut-4k       231686000 ns  (231 ns/op)
+[ 1736.765059] gf128mul-bench: lut-64k      81498000 ns  (81 ns/op)
+[ 1738.288117] gf128mul-bench: hybrid-4k    1523423000 ns  (1523 ns/op)
+[ 1739.882817] gf128mul-bench: hybrid-64k   1595082000 ns  (1595 ns/op)
+[ 1749.886596] gf128mul-bench: unloaded
+[ 1749.893026] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1750.510809] gf128mul-bench: school       617924000 ns  (617 ns/op)
+[ 1751.899194] gf128mul-bench: koa          1388715000 ns  (1388 ns/op)
+[ 1752.129616] gf128mul-bench: lut-4k       230469000 ns  (230 ns/op)
+[ 1752.211107] gf128mul-bench: lut-64k      81503000 ns  (81 ns/op)
+[ 1753.738125] gf128mul-bench: hybrid-4k    1527383000 ns  (1527 ns/op)
+[ 1755.333078] gf128mul-bench: hybrid-64k   1595333000 ns  (1595 ns/op)
+[ 1765.336501] gf128mul-bench: unloaded
+[ 1765.342749] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1765.957478] gf128mul-bench: school       614868000 ns  (614 ns/op)
+[ 1767.348038] gf128mul-bench: koa          1390889000 ns  (1390 ns/op)
+[ 1767.577403] gf128mul-bench: lut-4k       229411000 ns  (229 ns/op)
+[ 1767.659147] gf128mul-bench: lut-64k      81755000 ns  (81 ns/op)
+[ 1769.183917] gf128mul-bench: hybrid-4k    1525133000 ns  (1525 ns/op)
+[ 1770.778834] gf128mul-bench: hybrid-64k   1595296000 ns  (1595 ns/op)
+[ 1780.782354] gf128mul-bench: unloaded
+[ 1780.789017] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1781.404238] gf128mul-bench: school       615360000 ns  (615 ns/op)
+[ 1782.792843] gf128mul-bench: koa          1388935000 ns  (1388 ns/op)
+[ 1783.023377] gf128mul-bench: lut-4k       230582000 ns  (230 ns/op)
+[ 1783.105868] gf128mul-bench: lut-64k      82502000 ns  (82 ns/op)
+[ 1784.630581] gf128mul-bench: hybrid-4k    1525075000 ns  (1525 ns/op)
+[ 1786.224880] gf128mul-bench: hybrid-64k   1594679000 ns  (1594 ns/op)
+[ 1796.228737] gf128mul-bench: unloaded
+[ 1796.235387] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1796.849590] gf128mul-bench: school       614343000 ns  (614 ns/op)
+[ 1798.237393] gf128mul-bench: koa          1388134000 ns  (1388 ns/op)
+[ 1798.469359] gf128mul-bench: lut-4k       232013000 ns  (232 ns/op)
+[ 1798.550857] gf128mul-bench: lut-64k      81508000 ns  (81 ns/op)
+[ 1800.075418] gf128mul-bench: hybrid-4k    1524924000 ns  (1524 ns/op)
+[ 1801.673691] gf128mul-bench: hybrid-64k   1598653000 ns  (1598 ns/op)
+[ 1811.677607] gf128mul-bench: unloaded
+[ 1811.684067] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1812.299013] gf128mul-bench: school       615085000 ns  (615 ns/op)
+[ 1813.687805] gf128mul-bench: koa          1389122000 ns  (1389 ns/op)
+[ 1813.917490] gf128mul-bench: lut-4k       229731000 ns  (229 ns/op)
+[ 1813.999276] gf128mul-bench: lut-64k      81798000 ns  (81 ns/op)
+[ 1815.523942] gf128mul-bench: hybrid-4k    1525028000 ns  (1525 ns/op)
+[ 1817.119827] gf128mul-bench: hybrid-64k   1596264000 ns  (1596 ns/op)
+[ 1827.123250] gf128mul-bench: unloaded
+[ 1827.129456] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1827.744311] gf128mul-bench: school       614995000 ns  (614 ns/op)
+[ 1829.130820] gf128mul-bench: koa          1386838000 ns  (1386 ns/op)
+[ 1829.360489] gf128mul-bench: lut-4k       229716000 ns  (229 ns/op)
+[ 1829.441974] gf128mul-bench: lut-64k      81495000 ns  (81 ns/op)
+[ 1830.967968] gf128mul-bench: hybrid-4k    1526358000 ns  (1526 ns/op)
+[ 1832.562718] gf128mul-bench: hybrid-64k   1595130000 ns  (1595 ns/op)
+[ 1842.566087] gf128mul-bench: unloaded
+[ 1842.572876] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1843.191725] gf128mul-bench: school       618987000 ns  (618 ns/op)
+[ 1844.579687] gf128mul-bench: koa          1388290000 ns  (1388 ns/op)
+[ 1844.809773] gf128mul-bench: lut-4k       230132000 ns  (230 ns/op)
+[ 1844.891481] gf128mul-bench: lut-64k      81721000 ns  (81 ns/op)
+[ 1846.418154] gf128mul-bench: hybrid-4k    1527037000 ns  (1527 ns/op)
+[ 1848.013880] gf128mul-bench: hybrid-64k   1596106000 ns  (1596 ns/op)
+[ 1858.017376] gf128mul-bench: unloaded
+[ 1858.023786] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1858.638386] gf128mul-bench: school       614739000 ns  (614 ns/op)
+[ 1860.025283] gf128mul-bench: koa          1387226000 ns  (1387 ns/op)
+[ 1860.255125] gf128mul-bench: lut-4k       229888000 ns  (229 ns/op)
+[ 1860.336985] gf128mul-bench: lut-64k      81871000 ns  (81 ns/op)
+[ 1861.862384] gf128mul-bench: hybrid-4k    1525765000 ns  (1525 ns/op)
+[ 1863.457477] gf128mul-bench: hybrid-64k   1595473000 ns  (1595 ns/op)
+[ 1873.460929] gf128mul-bench: unloaded
+[ 1873.467067] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1874.080524] gf128mul-bench: school       613596000 ns  (613 ns/op)
+[ 1875.467353] gf128mul-bench: koa          1387158000 ns  (1387 ns/op)
+[ 1875.697058] gf128mul-bench: lut-4k       229751000 ns  (229 ns/op)
+[ 1875.778560] gf128mul-bench: lut-64k      81512000 ns  (81 ns/op)
+[ 1877.304491] gf128mul-bench: hybrid-4k    1526294000 ns  (1526 ns/op)
+[ 1878.899316] gf128mul-bench: hybrid-64k   1595207000 ns  (1595 ns/op)
+[ 1888.902669] gf128mul-bench: unloaded
+[ 1888.909053] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1889.524024] gf128mul-bench: school       615110000 ns  (615 ns/op)
+[ 1890.910913] gf128mul-bench: koa          1387219000 ns  (1387 ns/op)
+[ 1891.140530] gf128mul-bench: lut-4k       229663000 ns  (229 ns/op)
+[ 1891.221995] gf128mul-bench: lut-64k      81476000 ns  (81 ns/op)
+[ 1892.748138] gf128mul-bench: hybrid-4k    1526507000 ns  (1526 ns/op)
+[ 1894.342121] gf128mul-bench: hybrid-64k   1594363000 ns  (1594 ns/op)
+[ 1904.345696] gf128mul-bench: unloaded
+[ 1904.352348] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1904.968273] gf128mul-bench: school       616064000 ns  (616 ns/op)
+[ 1906.357068] gf128mul-bench: koa          1389123000 ns  (1389 ns/op)
+[ 1906.588812] gf128mul-bench: lut-4k       231790000 ns  (231 ns/op)
+[ 1906.671356] gf128mul-bench: lut-64k      82553000 ns  (82 ns/op)
+[ 1908.196043] gf128mul-bench: hybrid-4k    1525050000 ns  (1525 ns/op)
+[ 1909.791235] gf128mul-bench: hybrid-64k   1595572000 ns  (1595 ns/op)
+[ 1919.795432] gf128mul-bench: unloaded
+[ 1919.802478] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1920.420159] gf128mul-bench: school       617822000 ns  (617 ns/op)
+[ 1921.807333] gf128mul-bench: koa          1387502000 ns  (1387 ns/op)
+[ 1922.038257] gf128mul-bench: lut-4k       230972000 ns  (230 ns/op)
+[ 1922.120560] gf128mul-bench: lut-64k      82312000 ns  (82 ns/op)
+[ 1923.644468] gf128mul-bench: hybrid-4k    1524270000 ns  (1524 ns/op)
+[ 1925.238599] gf128mul-bench: hybrid-64k   1594511000 ns  (1594 ns/op)
+[ 1935.242120] gf128mul-bench: unloaded
+[ 1935.248494] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1935.863730] gf128mul-bench: school       615376000 ns  (615 ns/op)
+[ 1937.252548] gf128mul-bench: koa          1389146000 ns  (1389 ns/op)
+[ 1937.481914] gf128mul-bench: lut-4k       229411000 ns  (229 ns/op)
+[ 1937.563873] gf128mul-bench: lut-64k      81969000 ns  (81 ns/op)
+[ 1939.089580] gf128mul-bench: hybrid-4k    1526068000 ns  (1526 ns/op)
+[ 1940.685340] gf128mul-bench: hybrid-64k   1596140000 ns  (1596 ns/op)
+[ 1950.688720] gf128mul-bench: unloaded
+[ 1950.694927] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1951.309702] gf128mul-bench: school       614914000 ns  (614 ns/op)
+[ 1952.697483] gf128mul-bench: koa          1388109000 ns  (1388 ns/op)
+[ 1952.927105] gf128mul-bench: lut-4k       229669000 ns  (229 ns/op)
+[ 1953.008646] gf128mul-bench: lut-64k      81553000 ns  (81 ns/op)
+[ 1954.532637] gf128mul-bench: hybrid-4k    1524354000 ns  (1524 ns/op)
+[ 1956.127397] gf128mul-bench: hybrid-64k   1595140000 ns  (1595 ns/op)
+[ 1966.131453] gf128mul-bench: unloaded
+[ 1966.138393] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1966.752615] gf128mul-bench: school       614360000 ns  (614 ns/op)
+[ 1968.139770] gf128mul-bench: koa          1387487000 ns  (1387 ns/op)
+[ 1968.369944] gf128mul-bench: lut-4k       230221000 ns  (230 ns/op)
+[ 1968.451588] gf128mul-bench: lut-64k      81656000 ns  (81 ns/op)
+[ 1969.974382] gf128mul-bench: hybrid-4k    1523158000 ns  (1523 ns/op)
+[ 1971.567912] gf128mul-bench: hybrid-64k   1593911000 ns  (1593 ns/op)
+[ 1981.571389] gf128mul-bench: unloaded
+[ 1981.578428] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1982.194136] gf128mul-bench: school       615847000 ns  (615 ns/op)
+[ 1983.580867] gf128mul-bench: koa          1387059000 ns  (1387 ns/op)
+[ 1983.810547] gf128mul-bench: lut-4k       229729000 ns  (229 ns/op)
+[ 1983.893180] gf128mul-bench: lut-64k      82645000 ns  (82 ns/op)
+[ 1985.416325] gf128mul-bench: hybrid-4k    1523507000 ns  (1523 ns/op)
+[ 1987.011132] gf128mul-bench: hybrid-64k   1595188000 ns  (1595 ns/op)
+[ 1997.014538] gf128mul-bench: unloaded
+[ 1997.020651] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 1997.635426] gf128mul-bench: school       614914000 ns  (614 ns/op)
+[ 1999.022397] gf128mul-bench: koa          1387300000 ns  (1387 ns/op)
+[ 1999.251713] gf128mul-bench: lut-4k       229362000 ns  (229 ns/op)
+[ 1999.333208] gf128mul-bench: lut-64k      81505000 ns  (81 ns/op)
+[ 2000.857887] gf128mul-bench: hybrid-4k    1525044000 ns  (1525 ns/op)
+[ 2002.453571] gf128mul-bench: hybrid-64k   1596063000 ns  (1596 ns/op)
+[ 2012.457046] gf128mul-bench: unloaded
+[ 2012.463134] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2013.077380] gf128mul-bench: school       614386000 ns  (614 ns/op)
+[ 2014.464092] gf128mul-bench: koa          1387042000 ns  (1387 ns/op)
+[ 2014.693499] gf128mul-bench: lut-4k       229452000 ns  (229 ns/op)
+[ 2014.775025] gf128mul-bench: lut-64k      81538000 ns  (81 ns/op)
+[ 2016.302079] gf128mul-bench: hybrid-4k    1527416000 ns  (1527 ns/op)
+[ 2017.897270] gf128mul-bench: hybrid-64k   1595572000 ns  (1595 ns/op)
+[ 2027.900505] gf128mul-bench: unloaded
+[ 2027.906655] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2028.521210] gf128mul-bench: school       614694000 ns  (614 ns/op)
+[ 2029.907878] gf128mul-bench: koa          1386999000 ns  (1386 ns/op)
+[ 2030.137326] gf128mul-bench: lut-4k       229495000 ns  (229 ns/op)
+[ 2030.218881] gf128mul-bench: lut-64k      81567000 ns  (81 ns/op)
+[ 2031.744779] gf128mul-bench: hybrid-4k    1526264000 ns  (1526 ns/op)
+[ 2033.340517] gf128mul-bench: hybrid-64k   1596116000 ns  (1596 ns/op)
+[ 2043.344205] gf128mul-bench: unloaded
+[ 2043.350391] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2043.966546] gf128mul-bench: school       616294000 ns  (616 ns/op)
+[ 2045.353128] gf128mul-bench: koa          1386911000 ns  (1386 ns/op)
+[ 2045.582474] gf128mul-bench: lut-4k       229392000 ns  (229 ns/op)
+[ 2045.663951] gf128mul-bench: lut-64k      81488000 ns  (81 ns/op)
+[ 2047.189107] gf128mul-bench: hybrid-4k    1525519000 ns  (1525 ns/op)
+[ 2048.784200] gf128mul-bench: hybrid-64k   1595474000 ns  (1595 ns/op)
+[ 2058.787672] gf128mul-bench: unloaded
+[ 2058.793989] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2059.410078] gf128mul-bench: school       616229000 ns  (616 ns/op)
+[ 2060.797039] gf128mul-bench: koa          1387291000 ns  (1387 ns/op)
+[ 2061.026366] gf128mul-bench: lut-4k       229373000 ns  (229 ns/op)
+[ 2061.107939] gf128mul-bench: lut-64k      81585000 ns  (81 ns/op)
+[ 2062.632270] gf128mul-bench: hybrid-4k    1524694000 ns  (1524 ns/op)
+[ 2064.226897] gf128mul-bench: hybrid-64k   1595005000 ns  (1595 ns/op)
+[ 2074.230508] gf128mul-bench: unloaded
+[ 2074.236919] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2074.852435] gf128mul-bench: school       615657000 ns  (615 ns/op)
+[ 2076.240092] gf128mul-bench: koa          1387985000 ns  (1387 ns/op)
+[ 2076.471533] gf128mul-bench: lut-4k       231487000 ns  (231 ns/op)
+[ 2076.554026] gf128mul-bench: lut-64k      82501000 ns  (82 ns/op)
+[ 2078.079326] gf128mul-bench: hybrid-4k    1525664000 ns  (1525 ns/op)
+[ 2079.673974] gf128mul-bench: hybrid-64k   1595030000 ns  (1595 ns/op)
+[ 2089.677585] gf128mul-bench: unloaded
+[ 2089.684510] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2090.300780] gf128mul-bench: school       616410000 ns  (616 ns/op)
+[ 2091.689481] gf128mul-bench: koa          1389031000 ns  (1389 ns/op)
+[ 2091.920720] gf128mul-bench: lut-4k       231285000 ns  (231 ns/op)
+[ 2092.003136] gf128mul-bench: lut-64k      82426000 ns  (82 ns/op)
+[ 2093.529241] gf128mul-bench: hybrid-4k    1526469000 ns  (1526 ns/op)
+[ 2095.124370] gf128mul-bench: hybrid-64k   1595510000 ns  (1595 ns/op)
+[ 2105.128540] gf128mul-bench: unloaded
+[ 2105.134871] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2105.751389] gf128mul-bench: school       616657000 ns  (616 ns/op)
+[ 2107.139350] gf128mul-bench: koa          1388290000 ns  (1388 ns/op)
+[ 2107.368714] gf128mul-bench: lut-4k       229410000 ns  (229 ns/op)
+[ 2107.450210] gf128mul-bench: lut-64k      81507000 ns  (81 ns/op)
+[ 2108.972952] gf128mul-bench: hybrid-4k    1523105000 ns  (1523 ns/op)
+[ 2110.566025] gf128mul-bench: hybrid-64k   1593453000 ns  (1593 ns/op)
+[ 2120.569489] gf128mul-bench: unloaded
+[ 2120.575726] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2121.190914] gf128mul-bench: school       615328000 ns  (615 ns/op)
+[ 2122.401705] igb: eth4 NIC Link is Down
+[ 2122.579023] gf128mul-bench: koa          1388438000 ns  (1388 ns/op)
+[ 2122.808379] gf128mul-bench: lut-4k       229401000 ns  (229 ns/op)
+[ 2122.890115] gf128mul-bench: lut-64k      81748000 ns  (81 ns/op)
+[ 2124.414591] gf128mul-bench: hybrid-4k    1524839000 ns  (1524 ns/op)
+[ 2126.008332] gf128mul-bench: hybrid-64k   1594121000 ns  (1594 ns/op)
+[ 2136.012200] gf128mul-bench: unloaded
+[ 2136.019100] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2136.636665] gf128mul-bench: school       617705000 ns  (617 ns/op)
+[ 2138.024461] gf128mul-bench: koa          1388124000 ns  (1388 ns/op)
+[ 2138.253906] gf128mul-bench: lut-4k       229492000 ns  (229 ns/op)
+[ 2138.335788] gf128mul-bench: lut-64k      81892000 ns  (81 ns/op)
+[ 2139.859659] gf128mul-bench: hybrid-4k    1524233000 ns  (1524 ns/op)
+[ 2141.454179] gf128mul-bench: hybrid-64k   1594900000 ns  (1594 ns/op)
+[ 2151.457539] gf128mul-bench: unloaded
+[ 2151.464663] gf128mul-bench: Starting benchmark with 1000000 iterations
+[ 2152.080509] gf128mul-bench: school       615985000 ns  (615 ns/op)
+[ 2153.468758] gf128mul-bench: koa          1388577000 ns  (1388 ns/op)
+[ 2153.698123] gf128mul-bench: lut-4k       229412000 ns  (229 ns/op)
+[ 2153.779641] gf128mul-bench: lut-64k      81528000 ns  (81 ns/op)
+[ 2155.303485] gf128mul-bench: hybrid-4k    1524206000 ns  (1524 ns/op)
+[ 2156.899405] gf128mul-bench: hybrid-64k   1596301000 ns  (1596 ns/op)
+[ 2166.902845] gf128mul-bench: unloaded
